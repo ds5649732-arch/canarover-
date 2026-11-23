@@ -29,3 +29,6 @@ In india cleaning sewers manually by an human is very common and in most cases w
 Here is screenshots of 3D model of this rover :
 
 <img width="1920" height="1080" alt="Screenshot 2026-11-19 185936" src="https://github.com/user-attachments/assets/edf0cce5-21f1-494a-a154-09e89f67234c" />
+
+And here is link to my CAD model:
+https://cad.onshape.com/documents/1b7780c68fd2810e81bc9ca3/w/b5483dfb1464f8a70e1c5107/e/dc1e1bf72f1df7b90567e841?renderMode=0&uiState=6b04651149034aba0768429e
